@@ -1,0 +1,19 @@
+parts of house
+door
+window
+wall
+floor
+living room
+dining room
+kitchen
+bedroom
+closet
+bathroom
+garage
+office
+garden
+stairway
+balcony
+elevator
+lobby
+first floor
